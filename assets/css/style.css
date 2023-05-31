@@ -461,12 +461,14 @@ h6 {
 
 .about-detail {
     margin-top: 30px;
+   
+    text-align: justify;
 }
 
 .img-fluid {
-  margin: 20px 0 20px 0;
+  margin: 20px 0 10px 0;
   height: auto;
-  width: 100%;
+  width: 75%;
 }
 
 #hero .btn-about:hover {
